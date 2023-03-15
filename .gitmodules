@@ -1,0 +1,3 @@
+[submodule "rp2040-i2c-interface"]
+	path = rp2040-i2c-interface
+	url = https://github.com/Nicolai-Electronics/rp2040-i2c-interface.git
