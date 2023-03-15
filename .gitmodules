@@ -1,0 +1,3 @@
+[submodule "rp2040-usb-i2c"]
+	path = rp2040-usb-i2c
+	url = git@github.com:narodo/rp2040-usb-i2c.git
